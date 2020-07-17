@@ -1,0 +1,68 @@
+body {
+		background-image: url("file:///C:/Users/personal/Desktop/health/image/image2.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+}
+.one {
+		background-image: url("file:///C:/Users/personal/Desktop/health/image/image1.jpeg");
+		background-repeat: no-repeat;
+		background-size:cover;
+		padding-left: 80px;
+		padding-right: 80px;
+		width: 1000px;
+		height: 700px;
+		margin-left: 200px;
+		margin-right:100px;
+		margin-top:200px;
+		margin-bottom:200px;
+
+}
+.one nav {
+	position: relative;
+	top: -120px;
+	right: -350px;
+	font-size: 20px;
+	font-family: sans serif;
+	
+}
+.one nav a {
+	padding-left: 100px;
+	text-decoration: none;
+	color: black;
+}
+.one h1 {
+	font-family: sans serif;
+	font-size: 45px;
+	padding-top: 30px;
+	
+}
+
+.one h2 {
+			font-size: 70px;
+			font-family: sans serif;
+			padding-left: 100px;
+}
+.one p {
+			font-size: 18px;
+			font-family: sans serif;
+			padding-left:100px;
+			
+			
+}
+.one button{
+			background-color:#37e437;
+			color:white;
+			width: 100px;
+			height: 40px;
+			border-radius: 10px;
+			border:1px;
+			margin-top: 60px;
+			
+}
+.one #one {
+		font-size: 13px;
+		font-family:sans serif;
+		position: relative;
+		top: -40px;
+		right: -150px;
+}
